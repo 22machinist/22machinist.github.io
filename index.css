@@ -98,3 +98,13 @@ h3 {
 a{
     text-decoration: none;
 }
+
+#mylife {
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
