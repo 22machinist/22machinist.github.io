@@ -6,20 +6,95 @@ body {
 }
 h1 {
     background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
 }
-#info {
+#about {
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#ed {
     background-color: antiquewhite;
     margin: 5px;
     padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+#ideal {
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#hobs {
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+#IB {
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#vision {
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+#social {
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
 p {
     background-color: azure;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
 }
 img {
     border-radius: 50%;
     height: 300px;
 }
-h1 {
+footer {
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+h3 {
+    font-size: 28px;
+}
+a{
+    text-decoration: none;
 }
